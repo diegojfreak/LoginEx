@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula3ex2\Aula3ex2\bin\Debug\Aula3ex2.exe.config
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula3ex2\Aula3ex2\bin\Debug\Aula3ex2.exe
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula3ex2\Aula3ex2\bin\Debug\Aula3ex2.pdb
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula3ex2\Aula3ex2\obj\Debug\Aula3ex2.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula3ex2\Aula3ex2\obj\Debug\Aula3ex2.Form1.resources
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula3ex2\Aula3ex2\obj\Debug\Aula3ex2.Properties.Resources.resources
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula3ex2\Aula3ex2\obj\Debug\Aula3ex2.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula3ex2\Aula3ex2\obj\Debug\Aula3ex2.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula3ex2\Aula3ex2\obj\Debug\Aula3ex2.exe
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula3ex2\Aula3ex2\obj\Debug\Aula3ex2.pdb
